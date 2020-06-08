@@ -1,6 +1,7 @@
 print("hello")
 
-
+for x in rage(100):
+    print(x)
 
 
 
